@@ -1,0 +1,12 @@
+/*
+ * VERSION: 1.0.0
+ * DATE: 2014-04-23
+ *
+ * @license Copyright (c) 2008-2014, Pete Chapman. Released under GNU GPL.
+ * 
+ * @author: Pete Chapman, https://github.com/PeteChapman
+ */
+
+.carousel {overflow-x:hidden;}
+.slide {position:relative; display:none; width:100%}
+.slide.active {display:block;}
